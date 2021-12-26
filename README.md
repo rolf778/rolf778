@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rolf778
+- 👋 Hi, I’m @rolf778, I live in Taiwan.
 - 👀 I’m interested in self-learning coding.
 - 🌱 I’m currently learning python and backend related programming.
 - 💞️ I’m looking to shift my career into software development.
